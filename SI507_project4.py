@@ -89,21 +89,29 @@ for state in states_pages:
     #Get name of each site
     for i in parks_list:
         name = i.h3.text
+        if name == '':
+            name = 'N/A'
         site_names.append(name)
 
     #Type of each site
     for i in parks_list:
         type = i.h2.text
+        if type == '':
+            type = 'N/A'
         site_types.append(type)
 
     #Get Description of each site
     for i in parks_list:
         description = i.p.text
+        if description == '':
+            description = 'N/A'
         site_descriptions.append(description)
 
     #Get location of each site
     for i in parks_list:
         location = i.h4.text
+        if location == '':
+            location = 'N/A'
         site_locations.append(location)
 
 # print(site_states)
