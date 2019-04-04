@@ -8,5 +8,5 @@ Everything needed to successfully run this program is included in the SI507_proj
 <br><br>
 <h2>Grade:</h2>
 <h3>1000/1000</h3>
-I have successfully scraped the pages for the required data and also scraped the data for the state that each national site is located, which was an optional challenge.
+I have successfully scraped the pages for the required data and also scraped the data for the state that each national site is located, which was an optional challenge. In addition, I also cleaned the data so that empty cells display with a N/A instead of remaining empty. 
 </p>
