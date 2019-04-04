@@ -6,6 +6,7 @@ With the individual state URLs now cached, we wil grab the required informaion f
 <br><br>
 Everything needed to successfully run this program is included in the SI507_project4.py and advanced_expiry_caching.py files included in this repository. You will need to download both files and place them in the same folder. To run the program, navigate to the folder they are located in in your terminal window and type "python SI507_project4.py".
 <br><br>
-<h2>Grade:</h2>1000/1000
+<h2>Grade:</h2>
+<h3>1000/1000</h3>
 I have successfully scraped the pages for the required data and also scraped the data for the state that each national site is located, which was an optional challenge.
 </p>
